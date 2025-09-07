@@ -1,4 +1,4 @@
-const fs = require("fs");
+// const fs = require("fs");
 
 
 // fs.writeFileSync('./test.txt' , 'Hey  Saurabhhh Sync');  //sync call...
