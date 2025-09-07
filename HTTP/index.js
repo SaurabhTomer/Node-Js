@@ -7,7 +7,7 @@ const myServer = http.createServer((req, res) => {
     // Ignore browser's favicon request (every browser automatically requests /favicon.ico)
     if (req.url === "/favicon.ico") return res.end();
 
-    // Log each request with timestamp and URL
+    // Log each request with timestamp and URL int log.txt
     const log = `${Date.now()}:  ${req.url} New request received \n`;
 
     // Parse the URL to extract pathname and query params

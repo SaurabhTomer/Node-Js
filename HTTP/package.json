@@ -17,6 +17,7 @@
   "homepage": "https://github.com/SaurabhTomer/Node-Js#readme",
   "description": "",
   "dependencies": {
+    "express": "^5.1.0",
     "url": "^0.11.4"
   }
 }
