@@ -15,5 +15,8 @@
     "url": "https://github.com/SaurabhTomer/Node-Js/issues"
   },
   "homepage": "https://github.com/SaurabhTomer/Node-Js#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "url": "^0.11.4"
+  }
 }
